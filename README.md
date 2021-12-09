@@ -12,7 +12,7 @@ This project includes:
 
 Watch this space for further Maharashtra plots in the future!
 
-<p align="middle">
+<p align="left">
   <img src="/nell_maha_div_pop.png" width="200" />
 </p>
 <p align="middle">
